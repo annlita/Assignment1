@@ -1,0 +1,83 @@
+@charset "UTF-8";
+
+* {
+box-sizing: border-box;
+}
+
+body {
+background: #8522BA;
+font-family: Verdana, Geneva, Arial, sans-serif;
+height: 700px; 
+margin: 0; 
+}
+
+
+#home {
+background: #22b0ba;
+height: 760px;
+text-align: center;
+}
+
+#about {
+background: #ba4b22;
+height: 800px;
+}
+
+#title {
+height: 80px;
+text-align: center;
+}
+
+#left-column {
+float: left; height: 730px;
+width: 560px;
+background: #50ba22;
+}
+
+#right-column {
+float: right;  
+width: 900px; height: 730px;
+background: #ba4b22;
+margin-right: 25px; 
+margin-left: 25px;
+}
+
+#projects {
+background: #50ba22;
+height: 800px;
+}
+
+#contact {
+background: #ba2240;
+height: 800px;
+}
+
+#forms {
+text-align: center;
+float: center;
+background-color: #50ba22;
+height: 730px;
+margin-right: 300px; 
+margin-left: 300px;
+margin-bottom: 200px;
+}
+
+h1,h2,h3,h4,h5,h6,p,li {
+margin-left:15px;
+}
+
+.header{
+background-color:#FF4552;
+padding: 40px;
+text-align: center;
+}
+
+#banner h1 {
+color: white;
+}
+
+.footer {
+text-align: center;
+background-color: #22ba5c;
+padding: 10px;
+}
