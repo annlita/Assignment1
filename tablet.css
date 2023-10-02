@@ -5,7 +5,7 @@
         background: -moz-linear-gradient(top, #8522BA, #0E216B);
         background: -webkit-linear-gradient(top, #8522BA, #0E216B);
         background: -o-linear-gradient(top, #8522BA, #0E216B);
-        background: linear-gradient(top, #8522BA, #0E216B);
+        background: linear-gradient(to top, #8522BA, #0E216B);
         font-family: Caveat, Verdana, Geneva, Arial, sans-serif;
         margin: 0;
         font-size: 16px
